@@ -15,7 +15,7 @@
 | Game versions | 1.20.1, 1.21.1, 26.2 |
 | Dependencies | none |
 | Icon | not yet made — a separate ticket generates it with the fleet's navy-badge tool; `docs/modrinth/icon.png` does not exist until then |
-| Links | Source `https://github.com/cubealgos-mods/grounded_villages` · Issues `https://github.com/cubealgos-mods/grounded_villages/issues` |
+| Links | Source `https://github.com/kevinscheeren-mods/grounded_villages` · Issues `https://github.com/kevinscheeren-mods/grounded_villages/issues` |
 
 ## Version settings
 

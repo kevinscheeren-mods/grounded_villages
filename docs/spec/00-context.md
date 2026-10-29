@@ -58,7 +58,7 @@ size tiers, together, in one mod (`decisions/DEC-009-prior-art.md`).
 ## Business context
 
 No business model, no revenue, no telemetry. Published on Modrinth under MIT, source public on the
-GitHub under `cubealgos-mods`, with the issue tracker there, from the bootstrap (`decisions/DEC-003-licence.md`).
+GitHub under `kevinscheeren-mods`, with the issue tracker there, from the bootstrap (`decisions/DEC-003-licence.md`).
 
 ## What it will not do
 

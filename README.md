@@ -36,6 +36,6 @@ reload — a config edit takes effect on the next server start. See
 
 ## Licence
 
-MIT (`LICENSE`); credits in `NOTICE`. Source public under the `cubealgos` organisation.
+MIT (`LICENSE`); credits in `NOTICE`. Source public under the `kevinscheeren-mods` organisation.
 
 Development: `just --list`. The specification is `docs/spec/`.
