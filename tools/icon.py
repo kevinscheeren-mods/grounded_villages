@@ -551,7 +551,7 @@ def build_candidates(jar: Path) -> dict:
 
 
 def _org_root() -> Path:
-    """The cubealgos org directory that holds every sibling repo, resolved via git rather than
+    """The org directory (kevinscheeren-mods) holding every sibling repo, resolved via git rather than
     a fixed parent count -- this repo is usually checked out into a ticket worktree
     (.worktrees/<slug>/), so ROOT.parent is .worktrees, not the org directory."""
     try:
@@ -561,7 +561,7 @@ def _org_root() -> Path:
             capture_output=True, text=True, check=True,
         ).stdout.strip()
         repo_root = (ROOT / common_dir).resolve().parent  # .../grounded_villages/.git -> grounded_villages
-        return repo_root.parent  # .../cubealgos
+        return repo_root.parent  # .../kevinscheeren-mods
     except Exception:
         return ROOT.parent
 

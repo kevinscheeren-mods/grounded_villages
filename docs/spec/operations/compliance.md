@@ -14,7 +14,7 @@ category: "grounded_villages"
 | Licence and notices | MIT (`decisions/DEC-003-licence.md`); `NOTICE` credits Fabric API (Apache-2.0) plus NeoForge and Forge, whose own licences are to verify at the first ticket, before each of those modules lands (`decisions/DEC-003-licence.md`). **This mod ships no original creative asset of its own** — no lines, no audio, no new textures, models, or structure pieces (`00-context.md` "what it will not do") — so unlike `villager_voices`, there is no project-authored-content notice to track, only the dependency one. |
 | AI-content disclosure | Not applicable — no AI-generated or AI-assisted asset of any kind ships in this mod, since it ships no asset at all beyond compiled code and a config default. |
 | Supply chain and release integrity | Builds from a tagged commit with pinned dependencies; the release checksum is in the release notes; no signing at 1.0. |
-| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/cubealgos-mods/grounded_villages/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
+| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/kevinscheeren-mods/grounded_villages/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
 | Server trust boundary | Site selection, per-piece rejection, and tier rolling are entirely server-side world-generation decisions (`04-architecture.md` "Runtime topology"); no client packet or input this mod trusts for any of it. |
 | AI Act, GoBD, sector regulation | Not applicable — no AI feature, no financial-records handling, no regulated sector. |
 

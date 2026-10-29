@@ -101,7 +101,7 @@ that ticket) and the datagen-harness feasibility spike.
 | Standard | Divergence | Recorded in |
 |---|---|---|
 | `standards/legal/dependency-license-policy.md` | MIT, no CLA | `decisions/DEC-003-licence.md` |
-| "no remote unless justified later" | Public on GitHub under `cubealgos-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03) | `decisions/DEC-003-licence.md` |
+| "no remote unless justified later" | Public on GitHub under `kevinscheeren-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03) | `decisions/DEC-003-licence.md` |
 | `standards/marketing/naming-theme.md` (German-maritime house style) | No German-maritime candidate sweep was run. Settled as a standing exception: Minecraft mods in this fleet carry plain descriptive English names by Kevin's own choice each time, seven mods running, `create_brass_compass` `DEC-002` the first instance | `decisions/DEC-002-name.md` |
 | No dedicated config library | Hand-rolled JSON only, across six loader nodes; reasoning confirmed — no config mechanism is both present and loader-neutral across Fabric/NeoForge/Forge | `decisions/DEC-008-config-file.md` |
 | `villager_voices`' own precedent of a precompiled `common` module | This mod uses one shared `src/main/` source tree instead, compiled fresh per Stonecutter node — required by per-node Mixin refmaps, not a style choice | `04-architecture.md` `ARCH-DEC-002` |
